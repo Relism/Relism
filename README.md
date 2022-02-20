@@ -7,7 +7,8 @@ for Minecraft Spigot, Discord Bots and much more!!
   💻 My preferred Languages are :
   	- [🟡JavaScript]
   	- [🟠Java]
-  	- [🔵C++ ]
+  	- [🔵C++]
+    - [🟢Python]
     
   💬 I speak :
   	- [⚡Italian]
