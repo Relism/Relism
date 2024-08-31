@@ -12,7 +12,7 @@
 
 # Hi! I'm Relism, a Passionate Java Developer.
 
-Over 4 years of experience—3 of which have been dedicated to Spigot and its forks. I am also experienced with Velocity for proxy-side development, integrating backend technologies like custom APIs using Node.js and WebSockets, among other technologies like Fabric! (check my Modrinth account for more info on that)
+Over 4 years of experience—3 of which have been dedicated to Spigot and its forks. I am also experienced with Velocity for proxy-side development, integrating backend technologies like custom APIs using Node.js and WebSockets, among other technologies like Fabric! (check my [Modrinth account](https://modrinth.com/user/Relism) for more info on that)
 
 ![Modrinth Shield](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fuser%2FRelism%2Fprojects&query=%24.length&style=for-the-badge&label=Modrinth%20Projects&link=https%3A%2F%2Fmodrinth.com%2Fuser%2FRelism&logo=modrinth&color=00AF5C)
 
